@@ -42,6 +42,10 @@ The dataset used is the [Heart Disease UCI dataset](https://www.kaggle.com/datas
 git clone https://github.com/your-username/Heart-Disease-Prediction-ML.git
 cd Heart-Disease-Prediction-ML
 
+Install dependencies:
+
+pip install -r requirements.txt
+
 Run the Streamlit App🚀
 streamlit run app.py
 
@@ -67,8 +71,17 @@ Heart-Disease-Prediction-ML/
 
 📈 Model Performance
 The trained model achieves high accuracy and AUC on the test set.
-
 Uses Random Forest Classifier for robust predictions.
+
+🔄 Retraining the Model
+
+Open notebooks/train_pipeline.ipynb.
+
+Preprocess the dataset.
+
+Train the Random Forest pipeline.
+
+Save heart_model.pkl and feature_columns.pkl in the models/ folder.
 
 ⚡ Notes
 Make sure the models folder contains both heart_model.pkl and feature_columns.pkl.
