@@ -51,9 +51,8 @@ pip install -r requirements.txt
 ```
 3. Run the Streamlit App🚀
    
-   ```
+```
 streamlit run app.py
-
 ```
 
 5. Enter the patient data in the input fields.
