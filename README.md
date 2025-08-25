@@ -62,9 +62,8 @@ streamlit run app.py
 
 ## 🗂 Project Structure
 
-bash
-Copy
-Edit
+```
+
 Heart-Disease-Prediction-ML/
 │
 ├─ app.py                     # Streamlit application
@@ -75,8 +74,8 @@ Heart-Disease-Prediction-ML/
 │   └─ feature_columns.pkl    # Feature columns used in training
 ├─ train_pipeline.ipynb       # Notebook for training the model
 ├─ requirements.txt           # Project libraries
-├─ README.md                 # Project description
-
+├─ README.md                 # Project description 
+```
 ## 📈 Model Performance
 The trained model achieves high accuracy and AUC on the test set.
 Uses Random Forest Classifier for robust predictions.
