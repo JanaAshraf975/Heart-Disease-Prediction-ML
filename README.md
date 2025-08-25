@@ -59,7 +59,7 @@ streamlit run app.py
 
 6. Click Predict to see if the patient has heart disease and the prediction probability.
 
-```
+
 ## 🗂 Project Structure
 
 bash
