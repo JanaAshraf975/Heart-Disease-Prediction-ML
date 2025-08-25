@@ -42,10 +42,13 @@ The dataset used is the [Heart Disease UCI dataset](https://www.kaggle.com/datas
 git clone https://github.com/your-username/Heart-Disease-Prediction-ML.git
 cd Heart-Disease-Prediction-ML
 
+``` 
 2. Install dependencies:
 
+```
 pip install -r requirements.txt
 
+```
 3. Run the Streamlit App🚀
 streamlit run app.py
 
