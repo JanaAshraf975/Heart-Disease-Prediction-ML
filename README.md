@@ -52,7 +52,8 @@ streamlit run app.py
 4. Enter the patient data in the input fields.
 
 5. Click Predict to see if the patient has heart disease and the prediction probability.
----
+
+```
 ## 🗂 Project Structure
 
 bash
