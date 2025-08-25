@@ -50,11 +50,15 @@ pip install -r requirements.txt
 
 ```
 3. Run the Streamlit App🚀
+   
+   ```
 streamlit run app.py
 
-4. Enter the patient data in the input fields.
+```
 
-5. Click Predict to see if the patient has heart disease and the prediction probability.
+5. Enter the patient data in the input fields.
+
+6. Click Predict to see if the patient has heart disease and the prediction probability.
 
 ```
 ## 🗂 Project Structure
